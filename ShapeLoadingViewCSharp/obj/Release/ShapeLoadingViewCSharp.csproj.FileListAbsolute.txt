@@ -1,0 +1,14 @@
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\bin\Release\ShapeLoadingViewCSharp.dll
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\bin\Release\ShapeLoadingViewCSharp.pdb
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\bin\Release\ShapeLoadingViewCSharp.ShapeLoadingViewCSharp.apk
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\bin\Release\ShapeLoadingViewCSharp.ShapeLoadingViewCSharp-Signed.apk
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\ShapeLoadingViewCSharp.dll
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\ShapeLoadingViewCSharp.pdb
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\android\bin\ShapeLoadingViewCSharp.ShapeLoadingViewCSharp.apk
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\res\values\strings.xml
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\res\drawable\shadow.xml
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\res\layout\loadview.xml
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\res\values\attr.xml
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\res\values\color.xml
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\R.cs.flag
+E:\Github\ShapeLoadingViewCSharp\ShapeLoadingViewCSharp\obj\Release\uploadflags.txt

@@ -1,0 +1,1 @@
+<resources><declare-styleable name="LoadingView"><attr name="loadingText" format="string" /></declare-styleable></resources>

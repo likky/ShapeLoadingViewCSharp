@@ -1,0 +1,5 @@
+Values/Strings.xml;values/strings.xml
+Drawable/Shadow.xml;drawable/shadow.xml
+Layout/LoadView.xml;layout/loadview.xml
+Values/Attr.xml;values/attr.xml
+Values/Color.xml;values/color.xml
